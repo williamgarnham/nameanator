@@ -1,3 +1,5 @@
+This application uses nationalize.io, genderize.io and agify.io to give information about a given name.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
